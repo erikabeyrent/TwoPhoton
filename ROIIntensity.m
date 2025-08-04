@@ -1,5 +1,5 @@
 clear; clc; format short g; format compact;
-
+% This was added by Jake
 zap
 
 %% Add Function Path and Lookup .TIF Files
