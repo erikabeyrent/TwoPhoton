@@ -1,2 +1,0 @@
-disp hi
-hey there
